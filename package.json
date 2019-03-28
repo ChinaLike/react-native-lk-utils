@@ -1,0 +1,23 @@
+{
+  "name": "react-native-lk-utils",
+  "version": "0.0.2",
+  "description": "React-Native 工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinaLike/react-native-lk-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "工具类"
+  ],
+  "author": "Like",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinaLike/react-native-lk-utils/issues"
+  },
+  "homepage": "https://github.com/ChinaLike/react-native-lk-utils#readme"
+}
